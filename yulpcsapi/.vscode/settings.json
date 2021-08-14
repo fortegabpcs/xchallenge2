@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/netcoreapp3.1/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d487766e-1cc6-4acc-8a9d-97774e58a4a8/resourceGroups/yulpcsrg/providers/Microsoft.Web/sites/yulpcsapi"
+}
